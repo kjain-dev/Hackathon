@@ -1,0 +1,15 @@
+.container {
+  display: 'flex';
+  width: 30%;
+  margin-top: 50px;
+}
+
+.header {
+  background-color: grey;
+  text-align: center;
+  color: #fff;
+}
+
+.loginBtn{
+  margin: 7px;
+}
