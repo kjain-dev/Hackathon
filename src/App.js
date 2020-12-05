@@ -1,7 +1,7 @@
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.css';
 import Login from './Login';
 import Dashboard from './Dashboard';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 function App() {
   return (

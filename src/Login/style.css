@@ -1,15 +1,15 @@
 .container {
   display: 'flex';
-  width: 30%;
   margin-top: 50px;
 }
 
-.header {
-  background-color: grey;
+.loginHeader {
+  background-color: #7b8ae0;
   text-align: center;
   color: #fff;
 }
 
-.loginBtn{
-  margin: 7px;
+.loginBtn {
+  float: right;
+  margin: 7px!important;
 }
